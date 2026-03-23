@@ -4,7 +4,7 @@ Este repositório contém os resultados de uma análise de dados sobre preços d
 
 ## Visualizar no GitHub Pages
 
-Você pode acessar o site do projeto através do GitHub Pages neste link: `[Link do GitHub Pages será inserido aqui após a ativação]`
+Você pode acessar o site do projeto através do GitHub Pages neste link: https://celsofabri.github.io/iaa2026-LPA002/
 
 ## Conteúdo do Projeto
 
